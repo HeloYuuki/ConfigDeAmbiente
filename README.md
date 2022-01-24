@@ -18,7 +18,7 @@ ambiente de desenvolvimento.
 **Versão instalada:**  4.13.0
 
 **Sequência de instalação:** 
-Ir até a página https://spring.io/tools, e fazer o download compatível com a sua máquina. *É necessária a instalação prévia do Java e do Java SDK.*
+Ir até a página https://spring.io/tools e fazer o download compatível com a sua máquina. *É necessária a instalação prévia do Java e do Java SDK.*
 Depois de baixar, execute o arquivo - surgirá uma pasta (sts-4.13.0.RELEASE) - clique nela, abra o launcher e selecione o diretório onde deseja guardar seus projetos.
 
 **Sistema Operacional:** Windows 10 pro (x64)
@@ -31,7 +31,7 @@ Permiti que os desenvolvedores escrevam o programa apenas uma vez e o executem p
 
 **Versão instalada:**  8.0.3210.7
 
-**Sequência de instalação:** Ir até a página https://www.java.com/pt-BR/download/, e fazer o download. Depois de baixar, execute o arquivo. Aparacerá uma janela de bem-vindo com os termos, nessa tela temos a opção de escolher outro local de instalação ao clicar no checkbox. Clique em instalar, marcando ou não o checkbox.
+**Sequência de instalação:** Ir até a página https://www.java.com/pt-BR/download/ e fazer o download. Depois de baixar, execute o arquivo. Aparacerá uma janela de bem-vindo com os termos, nessa tela temos a opção de escolher outro local de instalação ao clicar no checkbox. Clique em instalar, marcando ou não o checkbox.
 
 **Sistema Operacional:** Windows 10 pro (x64)
 ***
@@ -43,6 +43,17 @@ Algumas das vantagens do MySQL em relação a outros bancos de dados é uma maio
 **Versão instalada:** 8.0.28.0
 
 **Sequência de instalação:** Ir até a página https://dev.mysql.com/downloads/installer/ e fazer o download. Depois de baixar, execute o arquivo. Depois aparecerá a tela do instalador, selecione developer default, clique em next, depois em yes (não selecionei nenhuma das opções no for product). Depois clique em execute. Depois de instalado, clique em next, deixe as configurações no padrão até o momento de escolher a senha. Digite uma senha para o MySQL Root, clique em next deixando novamente com as configurações padrão, aguarde aplicar a configuração e clique em finish. Na tela de product configuration clique em next, depois na página do connect to server digite a senha do root, clique em check e depois em next, na próxima tela, clique em execute e aguarde aplicar as configurações e clique em finish. Depois clique em next e finish novamente.
+
+**Sistema Operacional:** Windows 10 pro (x64)
+***
+
+# Git
+**Definição:** `Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência. 
+É usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.`
+
+**Versão instalada:** 2.34.1
+
+**Sequência de instalação:** Ir até a página https://git-scm.com/download/win e fazer o download. Depois de baixar, execute o arquivo. Na tela de informações e termos de uso, clique em next e selecione a pasta onde será instalado. Além dos checkboxs já marcados, selecione também *additional icons* e *add a git bash profile to windows terminal*, e clique em next até a tela onde você poderá escolher executar o Git pelo CMD e na sequência continue clicando em next mantendo as configurações recomendadas. Ao final, clique em install e depois em finish.
 
 **Sistema Operacional:** Windows 10 pro (x64)
 ***
@@ -122,6 +133,8 @@ choco upgrade httpie
 - [Java: Entenda para que serve](https://www.techtudo.com.br/noticias/2014/11/java-entenda-para-que-serve-o-software-e-os-problemas-da-sua-ausencia.ghtml)
 - [Bytecode Java](https://pt.wikipedia.org/wiki/Bytecode_Java#:~:text=O%20c%C3%B3digo%20de%20um%20programa,M%C3%A1quinas%20Virtuais%20Java%20(JVMs).)
 - [MySQL](https://pt.wikipedia.org/wiki/MySQL)
+- [Git: fast-version-control](https://git-scm.com/)
+- [Git: Sistema de controle de versões](https://pt.wikipedia.org/wiki/Git)
 - [NodeJS](https://www.opus-software.com.br/node-js/)
 - [Standalone](https://pt.wikipedia.org/wiki/Standalone)
 - [Server-side](https://pt.wikipedia.org/wiki/Server-side)
